@@ -13,7 +13,9 @@ make
 
 ## Testing
 
-`make test`
+```sh
+make test
+```
 
 ## Cleaning
 ```sh
