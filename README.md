@@ -39,3 +39,4 @@ To remove the object files, run:
 
 To remove the object files, executable, static libraries and the test disk image, run: 
 `make pristine`
+# OS2Project7
